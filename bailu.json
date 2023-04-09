@@ -3,9 +3,9 @@
         "msg":"",
         "data":{
         "type": "suggest",
-        "version":"1.4.0",
-        "versionCode":4,
-        "desc":"修复已知bug,添加更多视频资源,添加动漫资源",
+        "version":"1.5.0",
+        "versionCode":5,
+        "desc":"添加更多视频资源,添加榜单,但站点搜索",
         "link":"https://ghproxy.com/https://raw.githubusercontent.com/devlookme/movieconfig/main/box_so.apk"
         }
        
