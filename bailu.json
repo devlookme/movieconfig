@@ -3,9 +3,9 @@
         "msg":"",
         "data":{
         "type": "suggest",
-        "version":"1.6.0",
-        "versionCode":6,
-        "desc":"添加更多视频资源,添加榜单,但站点搜索",
+        "version":"2.0.1",
+        "versionCode":8,
+        "desc":"添加更多视频资源",
         "link":"https://ghproxy.com/https://raw.githubusercontent.com/devlookme/movieconfig/main/box_so.apk"
         }
        
