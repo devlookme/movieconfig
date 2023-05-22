@@ -3,8 +3,8 @@
         "msg":"",
         "data":{
         "type": "suggest",
-        "version":"1.0.2",
-        "versionCode":3,
+        "version":"1.0.5",
+        "versionCode":5,
         "desc":"修复某些资源无法访问",
         "link":"https://ghproxy.com/https://raw.githubusercontent.com/devlookme/movieconfig/main/box_tv_so.apk"
         }
