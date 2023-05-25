@@ -3,9 +3,9 @@
         "msg":"",
         "data":{
         "type": "suggest",
-        "version":"2.0.7",
-        "versionCode":12,
-        "desc":"修复某些资源无法访问问题",
+        "version":"2.0.8",
+        "versionCode":13,
+        "desc":"添加播放记录\n更新资源",
         "link":"https://ghproxy.com/https://raw.githubusercontent.com/devlookme/movieconfig/main/box_so.apk"
         }
        
