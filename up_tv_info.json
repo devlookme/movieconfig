@@ -3,9 +3,9 @@
         "msg":"",
         "data":{
         "type": "suggest",
-        "version":"1.0.5",
-        "versionCode":5,
-        "desc":"解决相关问题\n按遥控器方向键(向下)一次，然后按确定键来更新软件",
+        "version":"1.0.6",
+        "versionCode":6,
+        "desc":"解决相关问题\n按遥控器方向键(向下)一次，然后按确定键来更新软件\n1.添加新资源\n2.添加播放记录",
         "link":"https://ghproxy.com/https://raw.githubusercontent.com/devlookme/movieconfig/main/box_tv_so.apk"
         }
        
