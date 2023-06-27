@@ -3,8 +3,8 @@
         "msg":"",
         "data":{
         "type": "suggest",
-        "version":"2.1.1",
-        "versionCode":17,
+        "version":"2.2.1",
+        "versionCode":18,
         "desc":"添加新资源,修复已知问题",
         "link":"https://ghproxy.com/https://raw.githubusercontent.com/devlookme/movieconfig/main/box_so.apk"
         }
