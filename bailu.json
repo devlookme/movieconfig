@@ -3,9 +3,9 @@
         "msg":"",
         "data":{
         "type": "suggest",
-        "version":"2.2.3",
-        "versionCode":20,
-        "desc":"添加新资源",
+        "version":"2.3.0",
+        "versionCode":21,
+        "desc":"更新播放器播放更加流畅，可以修改画面尺寸",
         "link":"https://ghproxy.com/https://raw.githubusercontent.com/devlookme/movieconfig/main/box_so.apk"
         }
        
