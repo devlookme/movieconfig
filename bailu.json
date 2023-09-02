@@ -3,9 +3,9 @@
         "msg":"",
         "data":{
         "type": "suggest",
-        "version":"2.3.0",
-        "versionCode":21,
-        "desc":"更新播放器播放更加流畅，可以修改画面尺寸",
+        "version":"2.3.1",
+        "versionCode":22,
+        "desc":"更新资源解析，添加韩剧分类",
         "link":"https://ghproxy.com/https://raw.githubusercontent.com/devlookme/movieconfig/main/box_so.apk"
         }
        
