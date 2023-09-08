@@ -3,9 +3,9 @@
         "msg":"",
         "data":{
         "type": "suggest",
-        "version":"2.3.1",
-        "versionCode":22,
-        "desc":"更新资源解析，添加韩剧分类",
+        "version":"2.3.2",
+        "versionCode":23,
+        "desc":"修复相关资源，资源解析速度优化",
         "link":"https://ghproxy.com/https://raw.githubusercontent.com/devlookme/movieconfig/main/box_so.apk"
         }
        
