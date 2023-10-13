@@ -3,9 +3,9 @@
         "msg":"",
         "data":{
         "type": "suggest",
-        "version":"2.4.0",
-        "versionCode":24,
-        "desc":"界面升级，资源更新",
+        "version":"2.4.1",
+        "versionCode":25,
+        "desc":"更新资源",
         "link":"https://ghproxy.com/https://raw.githubusercontent.com/devlookme/movieconfig/main/box_so.apk"
         }
        
