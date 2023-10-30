@@ -3,9 +3,9 @@
         "msg":"",
         "data":{
         "type": "suggest",
-        "version":"2.4.1",
-        "versionCode":25,
-        "desc":"更新资源",
+        "version":"2.4.2",
+        "versionCode":26,
+        "desc":"添加蓝光资源,修复Android手机高版本搜索更多资源",
         "link":"https://ghproxy.com/https://raw.githubusercontent.com/devlookme/movieconfig/main/box_so.apk"
         }
        
