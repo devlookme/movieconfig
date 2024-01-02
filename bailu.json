@@ -3,9 +3,9 @@
         "msg":"",
         "data":{
         "type": "suggest",
-        "version":"2.4.3",
-        "versionCode":27,
-        "desc":"修复有戏资源筛选问题",
+        "version":"2.4.5",
+        "versionCode":29,
+        "desc":"修复有戏资源问题",
         "link":"https://ghproxy.com/https://raw.githubusercontent.com/devlookme/movieconfig/main/box_so.apk"
         }
        
