@@ -3,9 +3,9 @@
         "msg":"",
         "data":{
         "type": "suggest",
-        "version":"1.0.7",
-        "versionCode":7,
-        "desc":"更新播放器播放更加流畅",
+        "version":"1.0.9",
+        "versionCode":9,
+        "desc":"修复想法资源请求问题",
         "link":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/devlookme/movieconfig/main/box_tv_so.apk"
         }
        
