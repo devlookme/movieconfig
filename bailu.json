@@ -3,9 +3,9 @@
         "msg":"",
         "data":{
         "type": "suggest",
-        "version":"2.4.6",
-        "versionCode":30,
-        "desc":"修复资源问题",
+        "version":"2.4.7",
+        "versionCode":31,
+        "desc":"修复资源问题,添加短剧",
         "link":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/devlookme/movieconfig/main/box_so.apk"
         }
        
