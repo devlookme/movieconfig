@@ -1,0 +1,27 @@
+{
+
+ "code": 0,
+ "msg": "msg",
+  "data": [
+    {
+      "icon": "https://resources.yangshipin.cn/assets/oms/image/202306/d57905b93540bd15f0c48230dbbbff7ee0d645ff539e38866e2d15c8b9f7dfcd.png?imageMogr2/format/webp",
+      "name": "CCTV1",
+      "urls": ["http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8"],
+      "needToken": false,
+      "mustToken": false
+    },
+    {
+      "icon": "https://resources.yangshipin.cn/assets/oms/image/202306/20115388de0207131af17eac86c33049b95d69eaff064e55653a1b941810a006.png?imageMogr2/format/webp",
+      "name": "CCTV2",
+      "urls": ["http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8"],
+      "needToken": true,
+      "mustToken": false
+    },{
+      "icon": "https://resources.yangshipin.cn/assets/oms/image/202306/7b7a65c712450da3deb6ca66fbacf4f9aee00d3f20bd80eafb5ada01ec63eb3a.png?imageMogr2/format/webp",
+      "name": "CCTV3",
+      "urls": ["http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8"],
+      "needToken": true,
+      "mustToken": false
+    }
+  ]
+}
